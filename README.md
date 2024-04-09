@@ -11,7 +11,8 @@
 注意：本程序使用Python3.11测试，因此，请确保你的Python版本是合适的。
 
 pip：请在工作目录下使用命令 `pip install -r requirements.txt`
-conda: quick install `conda create env -f environment.yml`
+
+conda: 在工作目录下使用命令`conda create env -f environment.yml`
 
 ### 保存卡面
 
